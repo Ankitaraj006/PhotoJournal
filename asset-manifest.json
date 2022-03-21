@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PhotoJournal/static/css/main.006b50e8.css",
+    "main.js": "/PhotoJournal/static/js/main.3e853bde.js",
+    "static/js/787.2e4ac314.chunk.js": "/PhotoJournal/static/js/787.2e4ac314.chunk.js",
+    "index.html": "/PhotoJournal/index.html",
+    "main.006b50e8.css.map": "/PhotoJournal/static/css/main.006b50e8.css.map",
+    "main.3e853bde.js.map": "/PhotoJournal/static/js/main.3e853bde.js.map",
+    "787.2e4ac314.chunk.js.map": "/PhotoJournal/static/js/787.2e4ac314.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.006b50e8.css",
+    "static/js/main.3e853bde.js"
+  ]
+}
