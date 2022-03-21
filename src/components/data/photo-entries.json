@@ -1,0 +1,40 @@
+{
+  "itemlist" :
+  [
+    {
+      "src"      : "berlin.jpg",
+      "caption"  : "Scattered apple",
+      "location" : "Alkmaar, Netherlands"
+    },
+
+    {
+      "src"      : "beverly-hills.jpg",
+      "caption"  : "Brown Leaf Plant",
+      "location" : "Beverly Hills, USA"
+    },
+
+    {
+      "src"      : "maple-leaf.jpg",
+      "caption"  : "Heap of dried fallen leaves",
+      "location" : "Toronto, Canada"
+    },
+
+    {
+      "src"      : "hawaii.jpg",
+      "caption"  : "Deep Thought",
+      "location" : "Kona, Hawaii, USA"
+    },
+
+    {
+      "src"      : "wings.jpg",
+      "caption"  : "Wanderlust",
+      "location" : "San Francisco, USA"
+    },
+
+    {
+      "src"      : "london.jpg",
+      "caption"  : "Just another day",
+      "location" : "Rievaulx Terrace, UK"
+    }
+  ]
+}
